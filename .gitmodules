@@ -1,0 +1,3 @@
+[submodule "common/JsCPPUtils"]
+	path = common/JsCPPUtils
+	url = https://github.com/jc-lab/JsCPPUtils
